@@ -1,0 +1,14 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+
+.header {
+    background: #000;
+}
+
+.header .ui.list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
